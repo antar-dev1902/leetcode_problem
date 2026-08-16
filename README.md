@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/antar-dev1902/leetcode_problem/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/antar-dev1902/leetcode_problem/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/antar-dev1902/leetcode_problem/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/antar-dev1902/leetcode_problem/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -31,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/antar-dev1902/leetcode_problem/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/antar-dev1902/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
