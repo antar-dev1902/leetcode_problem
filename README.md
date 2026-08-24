@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0169-majority-element) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/antar-dev1902/leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/antar-dev1902/leetcode_problem/tree/master/0283-move-zeroes) |
