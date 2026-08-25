@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/antar-dev1902/leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/antar-dev1902/leetcode_problem/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0169-majority-element) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/antar-dev1902/leetcode_problem/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
