@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/antar-dev1902/leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/antar-dev1902/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0682-baseball-game](https://github.com/antar-dev1902/leetcode_problem/tree/master/0682-baseball-game) |
 | [1480-running-sum-of-1d-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/antar-dev1902/leetcode_problem/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/antar-dev1902/leetcode_problem/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
