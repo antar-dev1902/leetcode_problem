@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/antar-dev1902/leetcode_problem/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/antar-dev1902/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/antar-dev1902/leetcode_problem/tree/master/0682-baseball-game) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/antar-dev1902/leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/antar-dev1902/leetcode_problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/antar-dev1902/leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/antar-dev1902/leetcode_problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
@@ -75,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/antar-dev1902/leetcode_problem/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
