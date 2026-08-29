@@ -1,17 +1,7 @@
+import java.util.*;
 class Solution {
     public int majorityElement(int[] nums) {
-        int a=nums.length/2;
-        for(int i=0;i<nums.length;i++){
-            int count=1;
-            for(int j=i+1;j<nums.length;j++){
-                if(nums[i]==nums[j]){
-                    count++;
-                }
-            }
-        if(count>a){
-            return nums[i];
-        }    
-        }
-        return -1;
+        Arrays.sort(nums);
+        return nums[nums.length/2];
     }
 }
