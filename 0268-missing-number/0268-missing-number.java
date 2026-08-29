@@ -1,7 +1,6 @@
 import java.util.*;
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
         int sum1=0;
         for(int i:nums){
             sum1+=i;
