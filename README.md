@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/antar-dev1902/leetcode_problem/tree/master/0389-find-the-difference) |
 | [1796-second-largest-digit-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/antar-dev1902/leetcode_problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/antar-dev1902/leetcode_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/antar-dev1902/leetcode_problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/antar-dev1902/leetcode_problem/tree/master/1844-replace-all-digits-with-characters) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/antar-dev1902/leetcode_problem/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/antar-dev1902/leetcode_problem/tree/master/3042-count-prefix-and-suffix-pairs-i) |
