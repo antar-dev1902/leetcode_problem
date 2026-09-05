@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/antar-dev1902/leetcode_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/antar-dev1902/leetcode_problem/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2788-split-strings-by-separator](https://github.com/antar-dev1902/leetcode_problem/tree/master/2788-split-strings-by-separator) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/antar-dev1902/leetcode_problem/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/antar-dev1902/leetcode_problem/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2278-percentage-of-letter-in-string) |
+| [2788-split-strings-by-separator](https://github.com/antar-dev1902/leetcode_problem/tree/master/2788-split-strings-by-separator) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/antar-dev1902/leetcode_problem/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Queue
 |  |
