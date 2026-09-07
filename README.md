@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/antar-dev1902/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/antar-dev1902/leetcode_problem/tree/master/0682-baseball-game) |
 | [1408-string-matching-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1480-running-sum-of-1d-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/antar-dev1902/leetcode_problem/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0414-third-maximum-number) |
 ## Prefix Sum
 |  |
 | ------- |
