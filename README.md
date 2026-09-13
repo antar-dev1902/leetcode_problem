@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/antar-dev1902/leetcode_problem/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/antar-dev1902/leetcode_problem/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/antar-dev1902/leetcode_problem/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/antar-dev1902/leetcode_problem/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/antar-dev1902/leetcode_problem/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/antar-dev1902/leetcode_problem/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/antar-dev1902/leetcode_problem/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/antar-dev1902/leetcode_problem/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/antar-dev1902/leetcode_problem/tree/master/0917-reverse-only-letters) |
