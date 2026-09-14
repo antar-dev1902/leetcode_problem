@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/antar-dev1902/leetcode_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1748-sum-of-unique-elements](https://github.com/antar-dev1902/leetcode_problem/tree/master/1748-sum-of-unique-elements) |
 | [2109-adding-spaces-to-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2109-adding-spaces-to-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/antar-dev1902/leetcode_problem/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/antar-dev1902/leetcode_problem/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1207-unique-number-of-occurrences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1748-sum-of-unique-elements](https://github.com/antar-dev1902/leetcode_problem/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antar-dev1902/leetcode_problem/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/antar-dev1902/leetcode_problem/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1748-sum-of-unique-elements](https://github.com/antar-dev1902/leetcode_problem/tree/master/1748-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |
