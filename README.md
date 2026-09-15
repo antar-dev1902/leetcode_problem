@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/antar-dev1902/leetcode_problem/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/antar-dev1902/leetcode_problem/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/antar-dev1902/leetcode_problem/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/antar-dev1902/leetcode_problem/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1207-unique-number-of-occurrences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/antar-dev1902/leetcode_problem/tree/master/1748-sum-of-unique-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/antar-dev1902/leetcode_problem/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/antar-dev1902/leetcode_problem/tree/master/0917-reverse-only-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/antar-dev1902/leetcode_problem/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/antar-dev1902/leetcode_problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/antar-dev1902/leetcode_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/antar-dev1902/leetcode_problem/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/antar-dev1902/leetcode_problem/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/antar-dev1902/leetcode_problem/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3866-first-unique-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/3866-first-unique-even-element) |
