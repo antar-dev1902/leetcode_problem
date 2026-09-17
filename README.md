@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/antar-dev1902/leetcode_problem/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/antar-dev1902/leetcode_problem/tree/master/2716-minimize-string-length) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/antar-dev1902/leetcode_problem/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/antar-dev1902/leetcode_problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/antar-dev1902/leetcode_problem/tree/master/3945-digit-frequency-score) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/antar-dev1902/leetcode_problem/tree/master/2716-minimize-string-length) |
 | [2788-split-strings-by-separator](https://github.com/antar-dev1902/leetcode_problem/tree/master/2788-split-strings-by-separator) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/antar-dev1902/leetcode_problem/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/antar-dev1902/leetcode_problem/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Queue
 |  |
 | ------- |
