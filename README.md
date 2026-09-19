@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/antar-dev1902/leetcode_problem/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1748-sum-of-unique-elements](https://github.com/antar-dev1902/leetcode_problem/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/antar-dev1902/leetcode_problem/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/antar-dev1902/leetcode_problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/antar-dev1902/leetcode_problem/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/antar-dev1902/leetcode_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1805-number-of-different-integers-in-a-string) |
