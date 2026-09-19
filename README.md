@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/antar-dev1902/leetcode_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/antar-dev1902/leetcode_problem/tree/master/1748-sum-of-unique-elements) |
 | [2109-adding-spaces-to-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2109-adding-spaces-to-a-string) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/antar-dev1902/leetcode_problem/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2404-most-frequent-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/2404-most-frequent-even-element) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antar-dev1902/leetcode_problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/antar-dev1902/leetcode_problem/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/2404-most-frequent-even-element) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/antar-dev1902/leetcode_problem/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/antar-dev1902/leetcode_problem/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/antar-dev1902/leetcode_problem/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/antar-dev1902/leetcode_problem/tree/master/0682-baseball-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2109-adding-spaces-to-a-string) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Number Theory
 |  |
 | ------- |
