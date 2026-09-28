@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/antar-dev1902/leetcode_problem/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/antar-dev1902/leetcode_problem/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1486-xor-operation-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/0326-power-of-three) |
 | [0504-base-7](https://github.com/antar-dev1902/leetcode_problem/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1486-xor-operation-in-an-array) |
 | [3945-digit-frequency-score](https://github.com/antar-dev1902/leetcode_problem/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
