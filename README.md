@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/antar-dev1902/leetcode_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1720-decode-xored-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/antar-dev1902/leetcode_problem/tree/master/1748-sum-of-unique-elements) |
 | [2109-adding-spaces-to-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2109-adding-spaces-to-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/antar-dev1902/leetcode_problem/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1486-xor-operation-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1720-decode-xored-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
