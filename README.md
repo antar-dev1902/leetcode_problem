@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/antar-dev1902/leetcode_problem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/antar-dev1902/leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0219-contains-duplicate-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/0231-power-of-two) |
