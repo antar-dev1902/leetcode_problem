@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/antar-dev1902/leetcode_problem/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/antar-dev1902/leetcode_problem/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/antar-dev1902/leetcode_problem/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/antar-dev1902/leetcode_problem/tree/master/0645-set-mismatch) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/antar-dev1902/leetcode_problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/antar-dev1902/leetcode_problem/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/antar-dev1902/leetcode_problem/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1486-xor-operation-in-an-array) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/antar-dev1902/leetcode_problem/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/antar-dev1902/leetcode_problem/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
