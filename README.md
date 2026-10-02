@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/antar-dev1902/leetcode_problem/tree/master/2418-sort-the-people) |
 | [2788-split-strings-by-separator](https://github.com/antar-dev1902/leetcode_problem/tree/master/2788-split-strings-by-separator) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/antar-dev1902/leetcode_problem/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/antar-dev1902/leetcode_problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/2595-number-of-even-and-odd-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/antar-dev1902/leetcode_problem/tree/master/0682-baseball-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2109-adding-spaces-to-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
