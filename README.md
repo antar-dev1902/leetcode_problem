@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/2595-number-of-even-and-odd-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3827-count-monobit-integers](https://github.com/antar-dev1902/leetcode_problem/tree/master/3827-count-monobit-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -340,4 +341,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/antar-dev1902/leetcode_problem/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3827-count-monobit-integers](https://github.com/antar-dev1902/leetcode_problem/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
