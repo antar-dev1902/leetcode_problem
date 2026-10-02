@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/antar-dev1902/leetcode_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/antar-dev1902/leetcode_problem/tree/master/1748-sum-of-unique-elements) |
+| [2032-two-out-of-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/2032-two-out-of-three) |
 | [2109-adding-spaces-to-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2109-adding-spaces-to-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/antar-dev1902/leetcode_problem/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antar-dev1902/leetcode_problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2032-two-out-of-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/2032-two-out-of-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/antar-dev1902/leetcode_problem/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/2351-first-letter-to-appear-twice) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/antar-dev1902/leetcode_problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1720-decode-xored-array) |
+| [2032-two-out-of-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/2595-number-of-even-and-odd-bits) |
 ## Divide and Conquer
