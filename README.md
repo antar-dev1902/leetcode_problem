@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/antar-dev1902/leetcode_problem/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/antar-dev1902/leetcode_problem/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3827-count-monobit-integers](https://github.com/antar-dev1902/leetcode_problem/tree/master/3827-count-monobit-integers) |
