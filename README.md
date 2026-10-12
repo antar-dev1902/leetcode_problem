@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/antar-dev1902/leetcode_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/antar-dev1902/leetcode_problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1486-xor-operation-in-an-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/3370-smallest-number-with-all-set-bits) |
