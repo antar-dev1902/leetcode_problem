@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/antar-dev1902/leetcode_problem/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3945-digit-frequency-score](https://github.com/antar-dev1902/leetcode_problem/tree/master/3945-digit-frequency-score) |
