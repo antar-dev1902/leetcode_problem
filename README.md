@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/antar-dev1902/leetcode_problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/antar-dev1902/leetcode_problem/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3945-digit-frequency-score](https://github.com/antar-dev1902/leetcode_problem/tree/master/3945-digit-frequency-score) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/antar-dev1902/leetcode_problem/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -368,9 +370,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/antar-dev1902/leetcode_problem/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
 | [3827-count-monobit-integers](https://github.com/antar-dev1902/leetcode_problem/tree/master/3827-count-monobit-integers) |
 ## Primality Test
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/antar-dev1902/leetcode_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
