@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2404-most-frequent-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/antar-dev1902/leetcode_problem/tree/master/2418-sort-the-people) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2788-split-strings-by-separator](https://github.com/antar-dev1902/leetcode_problem/tree/master/2788-split-strings-by-separator) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/antar-dev1902/leetcode_problem/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/antar-dev1902/leetcode_problem/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/antar-dev1902/leetcode_problem/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3945-digit-frequency-score](https://github.com/antar-dev1902/leetcode_problem/tree/master/3945-digit-frequency-score) |
