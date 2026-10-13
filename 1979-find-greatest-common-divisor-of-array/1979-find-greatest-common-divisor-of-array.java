@@ -6,12 +6,18 @@ class Solution {
         return gcd(b,a%b);
     }
     public int findGCD(int[] nums) {
-        TreeSet<Integer> set=new TreeSet<>();
+        int max=nums[0];
+        int min=nums[0];
         for(int i:nums){
-            set.add(i);
+            if(i<min){
+                min=i;
+            }
+            if(i>max){
+                max=i;
+            }
         }
 
-        int x=gcd(set.first(),set.last());
+        int x=gcd(min,max);
         
         return x;
     }
