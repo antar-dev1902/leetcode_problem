@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/antar-dev1902/leetcode_problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3945-digit-frequency-score](https://github.com/antar-dev1902/leetcode_problem/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/3959-check-good-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2109-adding-spaces-to-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3959-check-good-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |
 | ------- |
