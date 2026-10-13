@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/antar-dev1902/leetcode_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/antar-dev1902/leetcode_problem/tree/master/1748-sum-of-unique-elements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/2032-two-out-of-three) |
 | [2109-adding-spaces-to-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2109-adding-spaces-to-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/antar-dev1902/leetcode_problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1486-xor-operation-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/antar-dev1902/leetcode_problem/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/antar-dev1902/leetcode_problem/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/antar-dev1902/leetcode_problem/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/antar-dev1902/leetcode_problem/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
 ## Dynamic Programming
@@ -384,9 +387,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
