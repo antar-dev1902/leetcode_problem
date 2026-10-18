@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/antar-dev1902/leetcode_problem/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2788-split-strings-by-separator](https://github.com/antar-dev1902/leetcode_problem/tree/master/2788-split-strings-by-separator) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/2404-most-frequent-even-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/antar-dev1902/leetcode_problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/3866-first-unique-even-element) |
 ## Binary Search
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/antar-dev1902/leetcode_problem/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
