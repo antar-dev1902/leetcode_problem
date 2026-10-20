@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/antar-dev1902/leetcode_problem/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/antar-dev1902/leetcode_problem/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/antar-dev1902/leetcode_problem/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/antar-dev1902/leetcode_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/antar-dev1902/leetcode_problem/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/antar-dev1902/leetcode_problem/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1207-unique-number-of-occurrences) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/antar-dev1902/leetcode_problem/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/antar-dev1902/leetcode_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
