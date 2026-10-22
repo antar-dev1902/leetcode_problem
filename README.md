@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/antar-dev1902/leetcode_problem/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/antar-dev1902/leetcode_problem/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/antar-dev1902/leetcode_problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1408-string-matching-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/antar-dev1902/leetcode_problem/tree/master/0917-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/antar-dev1902/leetcode_problem/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/antar-dev1902/leetcode_problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/antar-dev1902/leetcode_problem/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/2109-adding-spaces-to-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/antar-dev1902/leetcode_problem/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/antar-dev1902/leetcode_problem/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/antar-dev1902/leetcode_problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/antar-dev1902/leetcode_problem/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/antar-dev1902/leetcode_problem/tree/master/0645-set-mismatch) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/antar-dev1902/leetcode_problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/antar-dev1902/leetcode_problem/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/antar-dev1902/leetcode_problem/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/antar-dev1902/leetcode_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/antar-dev1902/leetcode_problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
