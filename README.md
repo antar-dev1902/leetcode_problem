@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/antar-dev1902/leetcode_problem/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/antar-dev1902/leetcode_problem/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/3099-harshad-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/antar-dev1902/leetcode_problem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
