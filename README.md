@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/antar-dev1902/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/antar-dev1902/leetcode_problem/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/antar-dev1902/leetcode_problem/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/antar-dev1902/leetcode_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/antar-dev1902/leetcode_problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/antar-dev1902/leetcode_problem/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/antar-dev1902/leetcode_problem/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/antar-dev1902/leetcode_problem/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/antar-dev1902/leetcode_problem/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0507-perfect-number) |
