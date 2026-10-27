@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/antar-dev1902/leetcode_problem/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/antar-dev1902/leetcode_problem/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/antar-dev1902/leetcode_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0819-most-common-word](https://github.com/antar-dev1902/leetcode_problem/tree/master/0819-most-common-word) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/antar-dev1902/leetcode_problem/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/antar-dev1902/leetcode_problem/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1207-unique-number-of-occurrences) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/antar-dev1902/leetcode_problem/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/antar-dev1902/leetcode_problem/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/antar-dev1902/leetcode_problem/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/antar-dev1902/leetcode_problem/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/antar-dev1902/leetcode_problem/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/antar-dev1902/leetcode_problem/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1207-unique-number-of-occurrences) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/antar-dev1902/leetcode_problem/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/antar-dev1902/leetcode_problem/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/antar-dev1902/leetcode_problem/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/antar-dev1902/leetcode_problem/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/antar-dev1902/leetcode_problem/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/antar-dev1902/leetcode_problem/tree/master/1189-maximum-number-of-balloons) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/antar-dev1902/leetcode_problem/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/antar-dev1902/leetcode_problem/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/antar-dev1902/leetcode_problem/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1394-find-lucky-integer-in-an-array) |
