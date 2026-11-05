@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/antar-dev1902/leetcode_problem/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/antar-dev1902/leetcode_problem/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antar-dev1902/leetcode_problem/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/antar-dev1902/leetcode_problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1408-string-matching-in-an-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/antar-dev1902/leetcode_problem/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/antar-dev1902/leetcode_problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/antar-dev1902/leetcode_problem/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/antar-dev1902/leetcode_problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/antar-dev1902/leetcode_problem/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/antar-dev1902/leetcode_problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
