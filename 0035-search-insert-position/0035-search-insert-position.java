@@ -1,18 +1,17 @@
-import java.util.*;
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        int[] arr=new int[nums.length+1];
-
-        for (int i = 0; i < nums.length; i++) {
-            arr[i] = nums[i];
-        }
-        arr[arr.length-1]=target;
-        Arrays.sort(arr);
-        for( int i=0;i<arr.length;i++){
-            if(arr[i]==target){
-                return i;
+        int low=0;
+        int high=nums.length-1;
+        int ans=nums.length;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(nums[mid]>=target){
+                ans=mid;
+                high=mid-1;
+            }else{
+                low=mid+1;
             }
         }
-        return -1;
+        return ans;
     }
 }
