@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/antar-dev1902/leetcode_problem/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/antar-dev1902/leetcode_problem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/antar-dev1902/leetcode_problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/antar-dev1902/leetcode_problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/3866-first-unique-even-element) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/antar-dev1902/leetcode_problem/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/antar-dev1902/leetcode_problem/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/antar-dev1902/leetcode_problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/antar-dev1902/leetcode_problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/antar-dev1902/leetcode_problem/tree/master/3945-digit-frequency-score) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/antar-dev1902/leetcode_problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/antar-dev1902/leetcode_problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/antar-dev1902/leetcode_problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/3866-first-unique-even-element) |
 ## Binary Search
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/antar-dev1902/leetcode_problem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/antar-dev1902/leetcode_problem/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/antar-dev1902/leetcode_problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/antar-dev1902/leetcode_problem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/antar-dev1902/leetcode_problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/antar-dev1902/leetcode_problem/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/antar-dev1902/leetcode_problem/tree/master/2427-number-of-common-factors) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/antar-dev1902/leetcode_problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/antar-dev1902/leetcode_problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
