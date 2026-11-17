@@ -1,7 +1,17 @@
 import java.util.*;
 class Solution {
     public int majorityElement(int[] nums) {
-        Arrays.sort(nums);
-        return nums[nums.length/2];
+        int n=nums.length;
+        HashMap<Integer,Integer> map=new HashMap<>();
+        for(int i:nums){
+            map.put(i,map.getOrDefault(i,0)+1);
+        }
+        int x=0;
+        for(Map.Entry<Integer,Integer> entry:map.entrySet()){
+            if(entry.getValue()>n/2){
+                x=entry.getKey();
+            }
+        }
+        return x;
     }
 }
