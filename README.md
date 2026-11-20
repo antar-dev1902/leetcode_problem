@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/antar-dev1902/leetcode_problem/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/antar-dev1902/leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/antar-dev1902/leetcode_problem/tree/master/0260-single-number-iii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/antar-dev1902/leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/antar-dev1902/leetcode_problem/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/antar-dev1902/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0287-find-the-duplicate-number) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/antar-dev1902/leetcode_problem/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/antar-dev1902/leetcode_problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/antar-dev1902/leetcode_problem/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/antar-dev1902/leetcode_problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/antar-dev1902/leetcode_problem/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/antar-dev1902/leetcode_problem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/antar-dev1902/leetcode_problem/tree/master/0258-add-digits) |
